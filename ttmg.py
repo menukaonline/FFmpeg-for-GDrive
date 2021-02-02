@@ -1,4 +1,4 @@
-#Shared by SudoKen(https://www.youtube.com/channel/UCZq5YhZIR-250zX_MzkTbxA?sub_confirmation=1)
+#Shared by cheems(https://github.com/cheems)
 import os
 from sys import exit as exx
 import time
